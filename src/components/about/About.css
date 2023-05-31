@@ -1,0 +1,13 @@
+.about h3 {
+  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  border-bottom: #cea058 solid 2px;
+}
+
+.about p {
+  margin-bottom: 2rem;
+  color: #121212;
+  font-size: 1rem;
+  font-weight: 400;
+}
